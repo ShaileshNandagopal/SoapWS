@@ -1,0 +1,6 @@
+com\example\producingwebservice\countries\Country.class
+com\example\producingwebservice\countries\Currency.class
+com\example\producingwebservice\countries\GetCountryRequest.class
+com\example\producingwebservice\countries\GetCountryResponse.class
+com\example\producingwebservice\countries\package-info.class
+com\example\producingwebservice\countries\ObjectFactory.class
